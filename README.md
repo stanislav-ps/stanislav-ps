@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center"> 
   <a href="your-linkedin-URL">
@@ -20,7 +20,6 @@
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
-<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
@@ -28,13 +27,14 @@
 
 :man_technologist: About Me :
 
-I am a junior Python Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia(St. Petersburg).
-- In the process....
-- 💼 I want to work as a Python developer. 
+I'm a junior Python Developer(Backend) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia(St. Petersburg).
+- 💼  I'm working as a Network Engineer, but I prefer programming. I'd like to enjoy my work.
 
-- 🌱
+- :computer: In this year i realized that I want to become a developer.
 
-- ⚡ In my free time
+- ⚡ In my free time, I like to solve problems on codewars. I'm fond of 3D modeling and drawing (as a hobby). 
 
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/StanislavPS-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://career.habr.com/stanislavps) [![Telegram Badge](https://img.shields.io/badge/StanislavPS123-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanislavPS123") [![Habr Badge](https://img.shields.io/badge/stanislavps-9cf?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/stanislavps)
+- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/StanislavPS-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+  [![Telegram Badge](https://img.shields.io/badge/StanislavPS123-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanislavPS123)
+  [![Habr Badge](https://img.shields.io/badge/stanislavps-9cf?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/stanislavps)
 
