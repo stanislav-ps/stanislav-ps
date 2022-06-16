@@ -26,14 +26,15 @@
 
 ---
 
-### :man_technologist: About Me :
+:man_technologist: About Me :
 
 I am a junior Python Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia(St. Petersburg).
-- 💼: I want to work as a Python developer.
+- In the process....
+- 💼 I want to work as a Python developer. 
 
-- 🌱: 
+- 🌱
 
-- ⚡: In my free time
+- ⚡ In my free time
 
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/StanislavPS-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://career.habr.com/stanislavps) [![Telegram Badge](https://img.shields.io/badge/StanislavPS123-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanislavPS123") [![Habr Badge](https://img.shields.io/badge/stanislavps-9cf?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/stanislavps)
 
