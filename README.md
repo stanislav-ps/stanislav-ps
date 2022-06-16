@@ -37,4 +37,15 @@ I'm a junior Python Developer(Backend) <img src="https://media.giphy.com/media/W
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/StanislavPS-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
   [![Telegram Badge](https://img.shields.io/badge/StanislavPS123-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanislavPS123)
   [![Habr Badge](https://img.shields.io/badge/stanislavps-9cf?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/stanislavps)
+  
+  ---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" itle="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" itle="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" itle="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" itle="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" itle="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" itle="Django" alt="Django" width="40" height="40"/>&nbsp;
 
