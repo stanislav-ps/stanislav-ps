@@ -32,7 +32,8 @@ I'm a junior Python Back-end Developer <img src="https://media.giphy.com/media/W
 
 - :computer: In this year i realized that I want to become a developer.
 
-- ⚡ In my free time, I like to solve problems on codewars. I'm fond of 3D modeling and drawing (as a hobby). 
+- ⚡ In my free time, I like to solve problems on codewars[![codewars](https://www.codewars.com/users/stanislav-ps/badges/micro)](https://www.codewars.com/users/stanislav-ps).  I'm fond of 3D modeling and drawing (as a hobby). 
+- 
 
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/StanislavPS-blue?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
   [![Telegram Badge](https://img.shields.io/badge/StanislavPS123-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanislavPS123)
