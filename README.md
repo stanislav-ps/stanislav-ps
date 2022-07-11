@@ -5,7 +5,7 @@
    <a href="https://spb.hh.ru/resume/28cbd588ff024dfe250039ed1f444374383444">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunterH&logoColor=white" alt="HeadHunter Badge"/>
   </a> 
-    <a href="https://www.linkedin.com/in/stanislav-porin-a42181244/">
+    <a href="https://www.linkedin.com/in/stanislav-porin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://career.habr.com/stanislavps">
@@ -38,7 +38,7 @@ I'm a junior Python Back-end Developer <img src="https://media.giphy.com/media/W
 - ⚡ In my free time, I like to solve problems on codewars[![codewars](https://www.codewars.com/users/stanislav-ps/badges/micro)](https://www.codewars.com/users/stanislav-ps).  I'm fond of 3D modeling and drawing (as a hobby). 
 
 - 📫How to reach me: [![HeadHunter Badge](https://img.shields.io/badge/Stanislavps-red?style=for-the-badge&logo=HeadHunter&logoColor=white)](https://spb.hh.ru/resume/28cbd588ff024dfe250039ed1f444374383444) 
-  [![Linkedin Badge](https://img.shields.io/badge/StanislavPS-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-porin-a42181244/)
+  [![Linkedin Badge](https://img.shields.io/badge/StanislavPS-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-porin/)
   [![Telegram Badge](https://img.shields.io/badge/StanislavPS123-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanislavPS123)
   [![Habr Badge](https://img.shields.io/badge/Stanislavps-9cf?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/stanislavps)
   
