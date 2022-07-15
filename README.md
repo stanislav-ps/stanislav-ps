@@ -30,7 +30,7 @@
 
 :man_technologist: About Me :
 
-I'm a junior Python Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia (St. Petersburg).
+I'm a Python Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia (St. Petersburg).
 - 💼  I'm working as a Network Engineer, but I prefer programming. I'd like to enjoy my work.
 
 - :computer: In this year i realized that I want to become a developer.
