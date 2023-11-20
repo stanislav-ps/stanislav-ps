@@ -11,7 +11,7 @@
   <a href="https://career.habr.com/stanislavps">
     <img src="https://img.shields.io/badge/Habr-9cf?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
-  <a href="https://t.me/StanislavPS123">
+  <a href="https://t.me/StanislavPorin">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
@@ -37,7 +37,7 @@ I'm a Python Back-end Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - 📫How to reach me: [![HeadHunter Badge](https://img.shields.io/badge/Stanislavps-red?style=for-the-badge&logo=HeadHunter&logoColor=white)](https://spb.hh.ru/resume/28cbd588ff024dfe250039ed1f444374383444) 
   [![Linkedin Badge](https://img.shields.io/badge/StanislavPS-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-porin/)
-  [![Telegram Badge](https://img.shields.io/badge/StanislavPS123-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanislavPS123)
+  [![Telegram Badge](https://img.shields.io/badge/StanislavPorin-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanislavPorin)
   [![Habr Badge](https://img.shields.io/badge/Stanislavps-9cf?style=for-the-badge&logo=habr&logoColor=white)](https://career.habr.com/stanislavps)
   
   ---
