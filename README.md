@@ -51,23 +51,12 @@ I'm a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Git" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="JetpackCompose" alt="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="Junit" alt="Git" width="50" height="50"/>&nbsp;
 
   
-</div>
-
-### :rocket: Additional Skills & Specializations:
-- Android SDK и Android Studio: Углубленное изучение официального Android SDK и интегрированной среды разработки Android Studio поможет вам стать более продвинутым Android разработчиком.
-- RxJava (или Kotlin Coroutines): Изучение асинхронного программирования с помощью RxJava или Kotlin Coroutines может значительно улучшить ваш опыт в разработке приложений для Android.
-- Архитектурные шаблоны: Изучение популярных архитектурных шаблонов, таких как MVP (Model-View-Presenter), MVVM (Model-View-ViewModel) или Clean Architecture, поможет вам строить более масштабируемые и поддерживаемые приложения.
-- Jetpack компоненты: Ознакомление с Jetpack компонентами, такими как Room (для работы с базами данных), LiveData, ViewModel, Navigation и другими, упростит и ускорит процесс разработки.
-- Тестирование: Изучение инструментов и методов тестирования Android приложений (Unit тесты, UI тесты, инструменты для автоматизации тестирования) поможет в создании более надежных приложений.
-- Работа с сетью: Углубленное изучение работы с сетью в Android (использование Retrofit, OkHttp, работа с RESTful API) поможет вам создавать приложения, взаимодействующие с удаленными серверами.
-- Material Design: Понимание принципов Material Design и использование соответствующих компонентов и анимаций поможет создавать приложения с хорошим пользовательским опытом.
-- Работа с мультимедиа и графикой: Изучение работы с изображениями, видео и аудио, а также создание пользовательского интерфейса с использованием графики (Canvas, OpenGL) может пригодиться при создании разнообразных приложений.
-
   
 ---
 
