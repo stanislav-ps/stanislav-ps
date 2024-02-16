@@ -31,7 +31,7 @@
 :man_technologist: About Me :
 
 I'm a Python Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia (St. Petersburg).
-- 💼  I'm working as a Network Engineer, but I prefer programming. I'd like to enjoy my work.
+- 💼  I'm working as a Systems Engineer, Naumen Product Development and Support Group
 
 - ⚡ In my free time, I like to solve problems on codewars[![codewars](https://www.codewars.com/users/stanislav-ps/badges/micro)](https://www.codewars.com/users/stanislav-ps).  I'm fond of 3D modeling and drawing (as a hobby). 
 
