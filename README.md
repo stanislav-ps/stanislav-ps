@@ -23,7 +23,6 @@
 </div>
 
 
-
 :man_technologist: About Me :
 
 I'm a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia (St. Petersburg).
