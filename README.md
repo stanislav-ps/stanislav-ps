@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/>
-</div>
 <div id="badges" align="center"> 
    <a href="https://spb.hh.ru/resume/28cbd588ff024dfe250039ed1f444374383444">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunterH&logoColor=white" alt="HeadHunter Badge"/>
