@@ -1,18 +1,3 @@
-<div id="badges" align="center"> 
-   <a href="https://spb.hh.ru/resume/28cbd588ff024dfe250039ed1f444374383444">
-    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunterH&logoColor=white" alt="HeadHunter Badge"/>
-  </a> 
-    <a href="https://www.linkedin.com/in/stanislav-porin/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://career.habr.com/stanislavps">
-    <img src="https://img.shields.io/badge/Habr-9cf?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
-  </a>
-  <a href="https://t.me/StanislavPorin">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div>
-</a>
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=stanislav-ps&style=flat-square&color=blue" alt="" />
 </a>
