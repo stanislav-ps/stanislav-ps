@@ -26,9 +26,9 @@
 :man_technologist: About Me :
 
 I'm a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia (St. Petersburg).
-- 💼  I'm working as a Systems Engineer, Naumen Product Development and Support Group
+- 💼 I'm working as a Systems Engineer, Naumen Product Development and Support Group
 - 📱 Currently, I'm learning Android development and working on creating applications.
-- ⚡ In my free time, I like to solve problems on codewars[![codewars](https://www.codewars.com/users/stanislav-ps/badges/micro)](https://www.codewars.com/users/stanislav-ps).  I'm fond of 3D modeling and drawing (as a hobby). 
+- ⚡  In my free time, I enjoy 3D modeling and drawing as hobbies.
 
 - 📫How to reach me: [![HeadHunter Badge](https://img.shields.io/badge/Stanislavps-red?style=for-the-badge&logo=HeadHunter&logoColor=white)](https://spb.hh.ru/resume/28cbd588ff024dfe250039ed1f444374383444) 
   [![Linkedin Badge](https://img.shields.io/badge/StanislavPS-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-porin/)
