@@ -27,7 +27,7 @@
 
 I'm a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> from Russia (St. Petersburg).
 - 💼 I'm working as a Systems Engineer, Naumen Product Development and Support Group
-- ⚡  In my free time, I enjoy 3D modeling and drawing as hobbies.
+- 🌐 I have experience building full-stack applications using Ktor
 - 📱 In my free time, I'm studying Android development
 - 🎨 I also enjoy 3D modeling and drawing as hobbies.
 
